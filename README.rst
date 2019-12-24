@@ -300,7 +300,9 @@ This is the list of operators that can be used:
 - ``>=``, ``ge``
 - ``<=``, ``le``
 - ``like``
+- ``not_like``
 - ``ilike``
+- ``not_ilike``
 - ``in``
 - ``not_in``
 

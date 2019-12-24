@@ -14,6 +14,15 @@ Unreleased
   ``1.3`` (#33)
 * Drop support for Python 3.4 (#33)
 
+0.10.1
+------
+
+Released 2019-12-24
+
+* Add support for ``not_ilike`` (case-insensitive)
+* Add support for ``not_like``
+
+
 0.10.0
 ------
 
