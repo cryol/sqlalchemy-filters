@@ -6,20 +6,6 @@ SQLAlchemy filters
     Filter, sort and paginate SQLAlchemy query objects. Ideal for
     exposing these actions over a REST API.
 
-
-.. image:: https://img.shields.io/pypi/v/sqlalchemy-filters.svg
-    :target: https://pypi.org/project/sqlalchemy-filters/
-
-.. image:: https://img.shields.io/pypi/pyversions/sqlalchemy-filters.svg
-    :target: https://pypi.org/project/sqlalchemy-filters/
-
-.. image:: https://img.shields.io/pypi/format/sqlalchemy-filters.svg
-    :target: https://pypi.org/project/sqlalchemy-filters/
-
-.. image:: https://travis-ci.org/juliotrigo/sqlalchemy-filters.svg?branch=master
-    :target: https://travis-ci.org/juliotrigo/sqlalchemy-filters
-
-
 Filtering
 ---------
 
@@ -469,14 +455,14 @@ The following SQLAlchemy_ versions are supported: ``1.0``, ``1.1``,
 Changelog
 ---------
 
-Consult the `CHANGELOG <https://github.com/juliotrigo/sqlalchemy-filters/blob/master/CHANGELOG.rst>`_
+Consult the `CHANGELOG <https://github.com/cryol/sqlalchemy-filters/blob/master/CHANGELOG.rst>`_
 document for fixes and enhancements of each version.
 
 
 License
 -------
 
-Apache 2.0. See `LICENSE <https://github.com/juliotrigo/sqlalchemy-filters/blob/master/LICENSE>`_
+Apache 2.0. See `LICENSE <https://github.com/cryol/sqlalchemy-filters/blob/master/LICENSE>`_
 for details.
 
 
