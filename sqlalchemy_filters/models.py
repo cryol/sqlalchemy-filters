@@ -205,7 +205,7 @@ def auto_join(query, *model_names):
                     # https://docs.sqlalchemy.org/en/14/changelog/migration_14.html
                     # Many Core and ORM statement objects now perform much of
                     # their construction and validation in the compile phase
-                    tmp = query.join(model)
+                    tmp = query.outerjoin(model)
                     tmp._compile_state()
                     query = tmp
             except InvalidRequestError:
